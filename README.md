@@ -1,5 +1,5 @@
 ﻿
-<h1 align="left">👋 Hello there! I'm Starikov Arthur</h1>
+<h1 align="left">👋 Hello there! I'm Arthur</h1>
 
 <br>
 
